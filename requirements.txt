@@ -4,8 +4,3 @@ openpyxl
 numpy
 matplotlib
 docx
-datetime
-calendar
-os
-re
-io
